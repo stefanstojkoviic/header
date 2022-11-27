@@ -1,4 +1,4 @@
-# Header File za Nizove i Matrice
+# Header file za nizove i matrice
 
 U ovom header se nalaze funkcije za osnovne operacije nad nizovima i matricama.
 
