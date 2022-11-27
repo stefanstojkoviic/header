@@ -19,5 +19,5 @@ Funkcije:
     <p><a href="google.com"><b>invert()</b></a>-korisit se za invertovanje 1D niza</p>
     <p><a href="google.com"><b>rotiranje()</b></a>-korisit se za rotriranje 1D niza</p>
     <p><a href="google.com"><b>zamenaRiK()</b></a>-korisit se za zamenu redova i kolona u matrici</p>
-    <p><a href="google.com"><b>glavna()</b></a>-korisit se za ubacivanje glavne diagonale u 1D niz</p>
-    <p><a href="google.com"><b>sporedna()</b></a>-korisit se za ubacivanje sporedne diagonale u 1D niz</p>
+    <p><a href="google.com"><b>glavna()</b></a>-korisit se za ubacivanje glavne diagonale matrice u 1D niz</p>
+    <p><a href="google.com"><b>sporedna()</b></a>-korisit se za ubacivanje sporedne diagonale matrice u 1D niz</p>
