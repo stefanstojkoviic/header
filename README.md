@@ -25,3 +25,26 @@ Funkcije:
 
 <h1>Tutorial</h1>
 
+<p><b>Korak 1:</b></p>
+        <p>Preuzmi te fajl</p>
+        ![tutoorial0](https://user-images.githubusercontent.com/69964858/204156736-ef57ca4a-afe5-4b62-9d5e-20d734120a7c.png)
+
+        
+        
+<p><b>Korak 2:</b></p>
+        <p>Povezite ga sa glavnim programom(fajl mora da bude u istom folderu kao i glavni fajl)</p>
+        ![t11](https://user-images.githubusercontent.com/69964858/204156740-3c8857a8-97e1-4982-9b16-9af0e1404075.png)
+
+        
+<p><b>Korak 3:</b></p>
+        <p>Kada udjete u fajl sami definiste velicinu matrice, preko promenjive "size" </p>
+
+        <p>"size" koristite u glavom programu kao velicinu bilo kog definisanog niza ili matrice</p>
+![t12](https://user-images.githubusercontent.com/69964858/204156744-489400ba-fbb3-4eea-93aa-7fc982616e25.png)
+
+![t13](https://user-images.githubusercontent.com/69964858/204156745-cd26625d-e466-479c-a3ad-f9940a7d4f67.png)
+
+
+        
+        
+        
